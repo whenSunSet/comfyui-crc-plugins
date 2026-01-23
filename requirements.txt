@@ -1,7 +1,0 @@
-numpy<2.0
-opencv-python>=4.8,<5.0
-
-paddlepaddle-gpu==3.3.0
-paddleocr==3.3.2
-
--i https://www.paddlepaddle.org.cn/packages/stable/cu118/

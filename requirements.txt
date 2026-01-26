@@ -4,4 +4,5 @@ pillow
 pyclipper
 opencv-python>=4.1.0
 torch>=1.13
+skimage
 
